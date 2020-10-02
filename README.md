@@ -1,3 +1,10 @@
+## F1-Champions
+
+This project shows list of F1 seasons (2005-2015) and champions for each season
+If user selects specific season list of races will be shown.
+To improve mobile user experience page layout would switch from two side-by-side columns to single column with 550px breakpoint
+To decrease amount of API calls `react-query` was used, it fetch results caching
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
