@@ -7,6 +7,13 @@ To decrease amount of API calls `react-query` was used, it fetch results caching
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run application execute:
+
+```
+yarn
+yarn start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
